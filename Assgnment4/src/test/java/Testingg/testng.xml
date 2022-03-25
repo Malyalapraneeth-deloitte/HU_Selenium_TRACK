@@ -1,0 +1,8 @@
+<suite name="src.test.java">
+    <test name="Sample test1">
+        <classes>
+            <class
+                    name="Testingg.Test_Login"/>
+        </classes>
+    </test>
+</suite>![](../../../../../../../MALPRA~1/AppData/Local/Temp/download.jpg)
