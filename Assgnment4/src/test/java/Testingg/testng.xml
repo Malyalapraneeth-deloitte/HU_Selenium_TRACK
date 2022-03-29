@@ -2,7 +2,8 @@
     <test name="Sample test1">
         <classes>
             <class
-                    name="Testingg.Test_Login"/>
+                    name = "Testingg.LoginTest"
+            />
         </classes>
     </test>
-</suite>![](../../../../../../../MALPRA~1/AppData/Local/Temp/download.jpg)
+</suite>

@@ -3,7 +3,7 @@ package Mini_Assignment;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class MiniAssignmet1<by> {
+public class miniAssignmet1<by> {
     public WebDriver driver;
    // By PHPTRAVELSlogo = By.xpath("//img[@alt=\"logo\"]");
     By logo = By.xpath("//img[@alt='logo']");
